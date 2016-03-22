@@ -12,3 +12,5 @@ table.idTableBy.plaintextInFirstTD = 'Norway';
 htmlToCell('example.html',table)
 
 
+nkymtkmnt
+jtumykjkouyj
