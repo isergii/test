@@ -1,0 +1,73 @@
+03-15 15:01:37.600 192.168.0.103:54321   7920   main      INFO: ----- H2O started  -----
+03-15 15:01:37.664 192.168.0.103:54321   7920   main      INFO: Build git branch: rel-turan
+03-15 15:01:37.665 192.168.0.103:54321   7920   main      INFO: Build git hash: e2959c131831f8d5dad8c92eebdf0ad4a4e78d09
+03-15 15:01:37.667 192.168.0.103:54321   7920   main      INFO: Build git describe: jenkins-rel-turan-3
+03-15 15:01:37.668 192.168.0.103:54321   7920   main      INFO: Build project version: 3.8.1.3
+03-15 15:01:37.669 192.168.0.103:54321   7920   main      INFO: Built by: 'jenkins'
+03-15 15:01:37.670 192.168.0.103:54321   7920   main      INFO: Built on: '2016-03-06 14:54:19'
+03-15 15:01:37.670 192.168.0.103:54321   7920   main      INFO: Java availableProcessors: 4
+03-15 15:01:37.671 192.168.0.103:54321   7920   main      INFO: Java heap totalMemory: 155.5 MB
+03-15 15:01:37.672 192.168.0.103:54321   7920   main      INFO: Java heap maxMemory: 1.76 GB
+03-15 15:01:37.673 192.168.0.103:54321   7920   main      INFO: Java version: Java 1.8.0_60 (from Oracle Corporation)
+03-15 15:01:37.676 192.168.0.103:54321   7920   main      INFO: JVM launch parameters: []
+03-15 15:01:37.677 192.168.0.103:54321   7920   main      INFO: OS version: Windows 7 6.1 (amd64)
+03-15 15:01:37.679 192.168.0.103:54321   7920   main      INFO: Machine physical memory: 7.91 GB
+03-15 15:01:37.680 192.168.0.103:54321   7920   main      INFO: X-h2o-cluster-id: 1458046894562
+03-15 15:01:37.681 192.168.0.103:54321   7920   main      INFO: User name: 'Sergey'
+03-15 15:01:37.682 192.168.0.103:54321   7920   main      INFO: Possible IP Address: lo (Software Loopback Interface 1), 127.0.0.1
+03-15 15:01:37.683 192.168.0.103:54321   7920   main      INFO: Possible IP Address: lo (Software Loopback Interface 1), 0:0:0:0:0:0:0:1
+03-15 15:01:37.684 192.168.0.103:54321   7920   main      INFO: Possible IP Address: net4 (Microsoft Teredo Tunneling Adapter), fe80:0:0:0:0:100:7f:fffe%net4
+03-15 15:01:37.684 192.168.0.103:54321   7920   main      INFO: Possible IP Address: eth4 (Realtek PCIe FE Family Controller), fe80:0:0:0:5c00:68de:1894:ad78%eth4
+03-15 15:01:37.685 192.168.0.103:54321   7920   main      INFO: Possible IP Address: wlan0 (Dell Wireless 1701 802.11b/g/n), 192.168.0.103
+03-15 15:01:37.686 192.168.0.103:54321   7920   main      INFO: Possible IP Address: wlan0 (Dell Wireless 1701 802.11b/g/n), fe80:0:0:0:c960:7835:37f5:55bf%wlan0
+03-15 15:01:37.687 192.168.0.103:54321   7920   main      INFO: Possible IP Address: eth5 (VMware Virtual Ethernet Adapter for VMnet1), 192.168.65.1
+03-15 15:01:37.688 192.168.0.103:54321   7920   main      INFO: Possible IP Address: eth5 (VMware Virtual Ethernet Adapter for VMnet1), fe80:0:0:0:483:1e0f:91bc:ecdf%eth5
+03-15 15:01:37.689 192.168.0.103:54321   7920   main      INFO: Possible IP Address: eth6 (VMware Virtual Ethernet Adapter for VMnet8), 192.168.183.1
+03-15 15:01:37.690 192.168.0.103:54321   7920   main      INFO: Possible IP Address: eth6 (VMware Virtual Ethernet Adapter for VMnet8), fe80:0:0:0:8df1:dfff:4d6f:bf77%eth6
+03-15 15:01:37.691 192.168.0.103:54321   7920   main      INFO: Possible IP Address: net7 (Microsoft ISATAP Adapter #2), fe80:0:0:0:0:5efe:c0a8:b701%net7
+03-15 15:01:37.692 192.168.0.103:54321   7920   main      INFO: Possible IP Address: net8 (Microsoft ISATAP Adapter #3), fe80:0:0:0:0:5efe:c0a8:67%net8
+03-15 15:01:37.693 192.168.0.103:54321   7920   main      INFO: Possible IP Address: net9 (Microsoft ISATAP Adapter), fe80:0:0:0:0:5efe:c0a8:4101%net9
+03-15 15:01:37.694 192.168.0.103:54321   7920   main      INFO: Multiple local IPs detected:
+03-15 15:01:37.694 192.168.0.103:54321   7920   main      INFO:   /192.168.0.103  /192.168.65.1  /192.168.183.1
+03-15 15:01:37.694 192.168.0.103:54321   7920   main      INFO: Attempting to determine correct address...
+03-15 15:01:37.694 192.168.0.103:54321   7920   main      INFO: Using /192.168.0.103
+03-15 15:01:37.697 192.168.0.103:54321   7920   main      INFO: Internal communication uses port: 54322
+03-15 15:01:37.697 192.168.0.103:54321   7920   main      INFO: Listening for HTTP and REST traffic on http://192.168.0.103:54321/
+03-15 15:01:37.817 192.168.0.103:54321   7920   main      INFO: H2O cloud name: 'Sergey' on /192.168.0.103:54321, discovery address /229.102.227.27:58726
+03-15 15:01:37.818 192.168.0.103:54321   7920   main      INFO: If you have trouble connecting, try SSH tunneling from your local machine (e.g., via port 55555):
+03-15 15:01:37.818 192.168.0.103:54321   7920   main      INFO:   1. Open a terminal and run 'ssh -L 55555:localhost:54321 Sergey@192.168.0.103'
+03-15 15:01:37.818 192.168.0.103:54321   7920   main      INFO:   2. Point your browser to http://localhost:55555
+03-15 15:01:37.820 192.168.0.103:54321   7920   main      INFO: Log dir: '\tmp\h2o-Sergey\h2ologs'
+03-15 15:01:37.821 192.168.0.103:54321   7920   main      INFO: Cur dir: 'd:\downloads\h2o-3.8.1.3'
+03-15 15:01:37.840 192.168.0.103:54321   7920   main      INFO: HDFS subsystem successfully initialized
+03-15 15:01:37.842 192.168.0.103:54321   7920   main      INFO: S3 subsystem successfully initialized
+03-15 15:01:37.844 192.168.0.103:54321   7920   main      INFO: Flow dir: 'C:/Users/Sergey/h2oflows'
+03-15 15:01:37.984 192.168.0.103:54321   7920   main      INFO: Cloud of size 1 formed [/192.168.0.103:54321]
+03-15 15:01:37.988 192.168.0.103:54321   7920   main      INFO: Registered 0 extensions in: 696mS
+03-15 15:01:38.652 192.168.0.103:54321   7920   main      INFO: Registered: 117 REST APIs in: 663mS
+03-15 15:01:39.354 192.168.0.103:54321   7920   main      INFO: Registered: 185 schemas in: 699mS
+03-15 15:01:39.355 192.168.0.103:54321   7920   main      INFO: 
+03-15 15:01:39.357 192.168.0.103:54321   7920   main      INFO: Open H2O Flow in your web browser: http://192.168.0.103:54321/
+03-15 15:01:39.361 192.168.0.103:54321   7920   main      INFO: 
+03-15 15:03:05.494 192.168.0.103:54321   7920   #53226-17 INFO: Method: GET   , URI: /, route: , parms: {}
+03-15 15:03:05.650 192.168.0.103:54321   7920   #53226-17 INFO: Trying to load resource /flow/index.html via classloader sun.misc.Launcher$AppClassLoader@3d4eac69
+03-15 15:03:05.787 192.168.0.103:54321   7920   #53226-17 INFO: Trying to load resource /flow/css/flow-lib.css via classloader sun.misc.Launcher$AppClassLoader@3d4eac69
+03-15 15:03:05.791 192.168.0.103:54321   7920   #53226-14 INFO: Trying to load resource /flow/css/scala-editor.css via classloader sun.misc.Launcher$AppClassLoader@3d4eac69
+03-15 15:03:05.810 192.168.0.103:54321   7920   #53226-18 INFO: Trying to load resource /flow/css/flow.css via classloader sun.misc.Launcher$AppClassLoader@3d4eac69
+03-15 15:03:05.822 192.168.0.103:54321   7920   #53226-14 INFO: Trying to load resource /flow/js/flow.js via classloader sun.misc.Launcher$AppClassLoader@3d4eac69
+03-15 15:03:05.827 192.168.0.103:54321   7920   #53226-15 INFO: Trying to load resource /flow/custom/custom.css via classloader sun.misc.Launcher$AppClassLoader@3d4eac69
+03-15 15:03:05.830 192.168.0.103:54321   7920   #53226-16 INFO: Trying to load resource /flow/js/flow-lib.js via classloader sun.misc.Launcher$AppClassLoader@3d4eac69
+03-15 15:03:06.172 192.168.0.103:54321   7920   #53226-15 INFO: Trying to load resource /flow/img/h2o.png via classloader sun.misc.Launcher$AppClassLoader@3d4eac69
+03-15 15:03:06.173 192.168.0.103:54321   7920   #53226-14 INFO: Trying to load resource /flow/fonts/fontawesome-webfont.woff via classloader sun.misc.Launcher$AppClassLoader@3d4eac69
+03-15 15:03:07.419 192.168.0.103:54321   7920   #53226-16 INFO: Method: GET   , URI: /3/Metadata/endpoints, route: /3/Metadata/endpoints, parms: {}
+03-15 15:03:07.441 192.168.0.103:54321   7920   #53226-16 INFO: Locking cloud to new members, because water.api.MetadataV3
+03-15 15:03:07.811 192.168.0.103:54321   7920   #53226-15 INFO: Trying to load resource /flow/help/catalog.json via classloader sun.misc.Launcher$AppClassLoader@3d4eac69
+03-15 15:03:07.810 192.168.0.103:54321   7920   #53226-16 INFO: Method: GET   , URI: /3/NodePersistentStorage/notebook, route: /3/NodePersistentStorage/(?<category>.*), parms: {category=notebook}
+03-15 15:03:07.810 192.168.0.103:54321   7920   #53226-14 INFO: Method: GET   , URI: /3/NodePersistentStorage/categories/environment/names/clips/exists, route: /3/NodePersistentStorage/categories/(?<category>.*)/names/(?<name>.*)/exists, parms: {name=clips, category=environment}
+03-15 15:03:07.833 192.168.0.103:54321   7920   #53226-14 INFO: Method: GET   , URI: /3/ModelBuilders, route: /3/ModelBuilders, parms: {}
+03-15 15:03:07.833 192.168.0.103:54321   7920   #53226-16 INFO: Method: GET   , URI: /3/About, route: /3/About, parms: {}
+03-15 15:03:07.891 192.168.0.103:54321   7920   #53226-15 INFO: Trying to load resource /flow/img/h2o-flow.png via classloader sun.misc.Launcher$AppClassLoader@3d4eac69
+03-15 15:03:08.557 192.168.0.103:54321   7920   #53226-14 INFO: Trying to load resource /flow/fonts/Lato-Regular.woff2 via classloader sun.misc.Launcher$AppClassLoader@3d4eac69
+03-15 15:07:29.161 192.168.0.103:54321   7920   #53226-19 INFO: Method: GET   , URI: /, route: , parms: {}
+03-15 15:07:29.191 192.168.0.103:54321   7920   #53226-20 INFO: Method: GET   , URI: /, route: , parms: {}
+03-15 15:07:29.299 192.168.0.103:54321   7920   #53226-15 INFO: Method: GET   , URI: /3/InitID, route: /3/InitID, parms: {}
